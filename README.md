@@ -8,7 +8,7 @@ A simple, custom-designed hardware circuit that lights up an LED when a tactile 
 
 | Front Design (3D Render) | Back Design (With Custom Text) |
 | :---: | :---: |
-| ![Front View](My%20First%20Pcb/3D-View.png) | ![Back View](path/to/your/back_screenshot.png) |
+| ![Front View](My%20First%20Pcb/3D-View.png) | ![Back View](My%20First%20Pcb/3D-View(Back).png) |
 
 
 ---
